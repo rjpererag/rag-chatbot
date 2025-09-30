@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+pydantic
+faiss-cpu
+python-dotenv
+pypdf # For PDF loading
+# Add other loaders here (e.g., python-docx, unstructured)

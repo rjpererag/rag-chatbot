@@ -34,3 +34,4 @@ credentials
 results/
 
 documents
+faiss_index
